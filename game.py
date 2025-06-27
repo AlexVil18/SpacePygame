@@ -219,7 +219,7 @@ class Jugador:
             pygame.draw.circle(escudo_surface, (*AZUL_NEON, alpha), (radio_escudo, radio_escudo), radio_escudo, 3)
             pantalla.blit(escudo_surface, (self.x - radio_escudo + self.ancho//2, self.y - radio_escudo + self.alto//2))
 
-        # Cuerpo principal de la nave (más detallado)
+        # Cuerpo principal de la nave
         # Parte superior (punta)
         pygame.draw.polygon(pantalla, CYAN, [
             (self.x + self.ancho // 2, self.y),
