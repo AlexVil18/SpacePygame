@@ -8,8 +8,8 @@ Space Defender es un juego de shoot 'em up donde controlas una nave espacial par
 
 ## 🎮 Características Principales
 
-### ✨ Nuevas Funcionalidades Mejoradas
-- **Resolución HD**: 1200x800 píxeles para una experiencia visual superior
+### ✨ Funcionalidades
+- **Resolución HD**: 800x600 píxeles para una experiencia visual superior
 - **Controles híbridos**: Compatibilidad total con teclado y mouse
 - **Interfaz interactiva**: Menús completamente navegables con mouse
 - **Efectos visuales avanzados**: Partículas diferenciadas, animaciones fluidas y colores neón
